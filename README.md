@@ -1,4 +1,4 @@
-requirement 
+requirements https://webdriver.io/docs/gettingstarted.html
 
 Configuring of WebdriverIO
 
