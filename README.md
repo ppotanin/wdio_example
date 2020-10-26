@@ -1,3 +1,10 @@
-"# webdriver_io_example" 
-"# webdriver_io_example" 
-"# wdio_example" 
+requirement 
+
+Configuring of WebdriverIO
+
+Start the Testrunner:
+  
+  go to directory: webdriverIO\webdriverio-test>
+  run command: npx wdio wdio.conf.js
+  
+  set login and password in file webdriverio-test/test/specs/example.e2e.js
